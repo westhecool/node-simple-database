@@ -1,0 +1,16 @@
+{
+  "name": "node-simple-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["file-db", "db", "database", "file-database", "simple-database", "simple"],
+  "author": "westhecool (https://github.com/westhecool)",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/westhecool/node-simple-database"
+  },
+  "homepage": "https://github.com/westhecool/node-simple-database"
+}
